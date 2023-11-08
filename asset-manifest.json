@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/sample_react/static/js/main.6b1d5859.js",
+    "static/media/pic1.jpg": "/sample_react/static/media/pic1.1725c5e4c1746a1b9b63.jpg",
+    "static/media/tal.jpg": "/sample_react/static/media/tal.c7f147c92682835aecfc.jpg",
+    "static/media/book2.webp": "/sample_react/static/media/book2.176631ed4f399198b22e.webp",
+    "static/media/pic2.jpeg": "/sample_react/static/media/pic2.87df59fc4b4cc8b3d1d9.jpeg",
+    "static/media/bobby.jpg": "/sample_react/static/media/bobby.7616c2d851b3bc52648c.jpg",
+    "static/media/card3.webp": "/sample_react/static/media/card3.3a04081868b5bc41287d.webp",
+    "static/media/book1.jpeg": "/sample_react/static/media/book1.6fab028ec46d694e1454.jpeg",
+    "static/media/pic3.jpeg": "/sample_react/static/media/pic3.3793fa703e44386e5ef3.jpeg",
+    "static/media/card2.webp": "/sample_react/static/media/card2.a6bc73b59e2b0a71c9ed.webp",
+    "static/media/card1.webp": "/sample_react/static/media/card1.645cc4fc8c0eabfc06dd.webp",
+    "static/media/book3.jpeg": "/sample_react/static/media/book3.3882c8c33c3c2a384d89.jpeg",
+    "static/media/unknown.webp": "/sample_react/static/media/unknown.d8117f10f38357c52228.webp",
+    "index.html": "/sample_react/index.html",
+    "main.6b1d5859.js.map": "/sample_react/static/js/main.6b1d5859.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6b1d5859.js"
+  ]
+}
